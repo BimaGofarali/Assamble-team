@@ -1,0 +1,16 @@
+{
+  "Team": [
+    {
+      "id": 1,
+      "name": "Iron Man"
+    },
+    {
+      "id": 2,
+      "name": "Hulk"
+    },
+    {
+      "id": 3,
+      "name": "Black Widow"
+    }
+  ]
+}
